@@ -9,5 +9,5 @@ We have used the basic concept of random number generator to solve this pattern 
 
 Now the pattern generated was passed as x and y coordinates in a 3x3 matrix and we used the thread.sleep method to generate the animation of the connecting lines.
 
-For a more detailed description of the project, check the readme file and video attached 
+For a more detailed description of the project, check the readme file  
 [readme.pdf](https://github.com/pratvi0511/Android_Pattern_Lock_Generator_GUI/blob/main/readme.pdf)
